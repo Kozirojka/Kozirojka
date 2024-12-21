@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Kozirojka! 👋
 
-<!--
-**Kozirojka/Kozirojka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a third-year student at Lviv Polytechnic National University, passionate about software development and constantly learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education:** Third-year student at Lviv Polytechnic National University
+- 💻 **Role:** .NET Developer
+- 💬 **Languages:** .NET, ASP.NET Core, React.js, Entity Framework
+- 🗄️ **Databases:** MongoDB, MS SQL Server, PostgreSQL
+
+## 🛠️ Skills
+
+Here are some of the technologies and tools I work with:
+
+### Programming Languages & Frameworks:
+- **.NET**
+- **ASP.NET Core API**
+- **React.js**
+- **Entity Framework**
+
+### Databases:
+- **MongoDB**
+- **MS SQL Server**
+- **PostgreSQL**
+
+## 🔭 Projects
+
+Here are some of my highlighted projects:
+
+- [Medical Visiters](https://github.com/Kozirojka/MedicalVisits)
