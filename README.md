@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a third-year student at Lviv Polytechnic Natio
 ## 🚀 About Me
 
 - 🎓 **Education:** Third-year student at Lviv Polytechnic National University
-- 💻 **Role:** .NET Developer
+- 💻 **Role:** <ins>.NET</ins> Developer
 - 💬 **Languages:** .NET, ASP.NET Core, React.js, Entity Framework
 - 🗄️ **Databases:** MongoDB, MS SQL Server, PostgreSQL
 
@@ -26,6 +26,10 @@ Here are some of the technologies and tools I work with:
 
 ## 🔭 Projects
 
-Here are some of my highlighted projects:
-Medical Project
-- [Back-end](https://github.com/Kozirojka/MedicalVisits)
+Medical Project❤️:
+- [Back-end 🔙](https://github.com/Kozirojka/MedicalVisits)
+- [Front-end 👾](https://github.com/Kozirojka/MedicalVisits-Client)
+
+OAuth authorization project:
+- [Back-end](https://github.com/Kozirojka/OAuth2)
+- [Front-end](https://github.com/Kozirojka/OAuth2-client)
