@@ -27,5 +27,5 @@ Here are some of the technologies and tools I work with:
 ## 🔭 Projects
 
 Here are some of my highlighted projects:
-
-- [Medical Visiters](https://github.com/Kozirojka/MedicalVisits)
+Medical Project
+- [Back-end](https://github.com/Kozirojka/MedicalVisits)
