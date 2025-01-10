@@ -30,6 +30,3 @@ Medical Project❤️ (In development):
 - [Back-end 🔙](https://github.com/Kozirojka/MedicalVisits)
 - [Front-end 👾](https://github.com/Kozirojka/MedicalVisits-Client)
 
-OAuth authorization project (In development):
-- [Back-end](https://github.com/Kozirojka/OAuth2)
-- [Front-end](https://github.com/Kozirojka/OAuth2-client)
