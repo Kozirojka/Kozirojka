@@ -28,5 +28,5 @@ Here are some of the technologies and tools I work with:
 
 Medical Project❤️ (In development):
 - [Back-end 🔙](https://github.com/Kozirojka/MedicalVisits)
-- [Front-end 👾](https://github.com/Kozirojka/MedicalVisits-Client)
+- [Front-end 👾](https://github.com/Kozirojka/MedicalVisits-front)
 
