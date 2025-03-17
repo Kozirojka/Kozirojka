@@ -45,3 +45,6 @@ Medical Project❤️ (In development):
 - [Back-end 🔙](https://github.com/Kozirojka/MedicalVisits)
 - [Front-end 👾](https://github.com/Kozirojka/MedicalVisits-front)
 
+Whiteboard application for cooperation with the team. 🍎. Started 3/17/2025
+- [Back-end] (https://github.com/Kozirojka/TeamBoard-Backend)
+- [Front-end] (https://github.com/Kozirojka/TeamBoard-Frontend)
